@@ -1,4 +1,4 @@
-# Micromouse Navigation — Version 1 (Wall Following)
+# Micromouse  — Version 1 (Wall Following)
 
 ## Overview
 
