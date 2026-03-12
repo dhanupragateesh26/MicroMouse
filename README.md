@@ -2,9 +2,9 @@
 
 This repository contains multiple iterations of an autonomous micromouse navigation system.
 
-Algorithms implemented:
+## Algorithms implemented:
 
-v1_wall_following
+**v1_wall_following**
 Reactive maze navigation using wall-following control.
 
 v2_maze_mapping (future)
